@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://codesandbox.io/s/new",
+  "homepage": ".",
   "main": "src/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
