@@ -1,1 +1,1 @@
-[Check it out!] (https://cardsort.netlify.app/)
+[Check it out!](https://cardsort.netlify.app)
